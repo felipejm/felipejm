@@ -12,7 +12,3 @@ Fitness platform connecting personal trainers and students: offline workout exec
 KMP monorepo - Compose Multiplatform (mobile + web/Wasm), Ktor, SQLDelight, Supabase (Postgres, Auth, Storage, Realtime, Edge Functions).
 
 **Stack:** Kotlin, Kotlin Multiplatform, Compose Multiplatform, Swift, Ktor, SQLDelight, Supabase, Stripe
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipejm&show_icons=true&hide_title=true&hide_border=true)
