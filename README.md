@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0f0f,100:C11726&text=Felipe%20J.%20Martins&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C11726&center=true&vCenter=true&width=560&lines=Mobile+Engineer+%7C+Kotlin+Multiplatform;Building+TopShape+solo;Kotlin+%C2%B7+Swift+%C2%B7+Compose+%C2%B7+Supabase" alt="typing" />
+Mobile Engineer &middot; Kotlin Multiplatform &middot; Building TopShape solo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-joffer-martins)
 [![Email](https://img.shields.io/badge/Email-C11726?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipejmartins@gmail.com)
