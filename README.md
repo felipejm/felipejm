@@ -1,16 +1,18 @@
-## Hi there 👋
+## Felipe J. Martins
+Mobile engineer (Kotlin Multiplatform) building [TopShape](https://topshapeapp.com) solo - an app connecting personal trainers and their students.
 
-<!--
-**felipejm/felipejm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sao Paulo, Brazil | [LinkedIn](https://www.linkedin.com/in/felipe-joffer-martins) | felipejmartins@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently building - [TopShape](https://github.com/felipejm/topshape-public)
+
+Fitness platform connecting personal trainers and students: offline workout execution, cardio and evolution tracking, weekly check-ins, real-time chat. Live in production - app on the App Store, web portal at topshapeapp.com, Stripe billing.
+
+KMP monorepo - Compose Multiplatform (mobile + web/Wasm), Ktor, SQLDelight, Supabase (Postgres, Auth, Storage, Realtime, Edge Functions).
+
+**Stack:** Kotlin, Kotlin Multiplatform, Compose Multiplatform, Swift, Ktor, SQLDelight, Supabase, Stripe
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipejm&show_icons=true&hide_title=true&hide_border=true)
