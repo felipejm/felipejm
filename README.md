@@ -4,15 +4,8 @@
 
 Mobile Engineer &middot; Kotlin Multiplatform &middot; Building TopShape & Compra Esperta solo
 
-<p align="center">
-  <a href="https://github.com/felipejm/topshape-public"><img src="assets/topshape-icon.svg" width="64" height="64" alt="TopShape"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/felipejm/compra-esperta-public"><img src="assets/compra-esperta-icon.svg" width="64" height="64" alt="Compra Esperta"></a>
-</p>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-joffer-martins)
 [![Email](https://img.shields.io/badge/Email-C11726?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipejmartins@gmail.com)
-[![topshapeapp.com](https://img.shields.io/badge/topshapeapp.com-000000?style=for-the-badge)](https://topshapeapp.com)
 
 Sao Paulo, Brazil
 
@@ -22,28 +15,21 @@ Sao Paulo, Brazil
 
 ### Currently building
 
-<div align="center">
+<img src="assets/topshape-icon.svg" width="48" height="48" align="left">
 
-[![TopShape](https://img.shields.io/badge/TopShape-C11726?style=for-the-badge)](https://github.com/felipejm/topshape-public)
-[![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/br/app/topshape-treino-com-personal/id6794997484)
-[![Web](https://img.shields.io/badge/Web-C11726?style=for-the-badge&logo=googlechrome&logoColor=white)](https://topshapeapp.com)
+**[TopShape](https://github.com/felipejm/topshape-public)** — fitness platform connecting personal trainers and students: offline workout execution, cardio and evolution tracking, weekly check-ins, real-time chat. Live in production, Stripe billing. [App Store](https://apps.apple.com/br/app/topshape-treino-com-personal/id6794997484) · [Web](https://topshapeapp.com)
 
-</div>
-
-Fitness platform connecting personal trainers and students: offline workout execution, cardio and evolution tracking, weekly check-ins, real-time chat. Live in production, Stripe billing.
+<br clear="left"/>
 
 KMP monorepo - Compose Multiplatform (mobile + web/Wasm), Ktor, SQLDelight, Supabase (Postgres, Auth, Storage, Realtime, Edge Functions).
 
 <br/>
 
-<div align="center">
+<img src="assets/compra-esperta-icon.svg" width="48" height="48" align="left">
 
-[![Compra Esperta](https://img.shields.io/badge/Compra_Esperta-1F5C4A?style=for-the-badge)](https://github.com/felipejm/compra-esperta-public)
-[![Site](https://img.shields.io/badge/Site-B8863D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://felipejm.github.io/compra-esperta-site/)
+**[Compra Esperta](https://github.com/felipejm/compra-esperta-public)** — app 100% focado no mercado brasileiro que transforma a nota fiscal (NFC-e) em histórico de preço, evolução ao longo do tempo e comparação entre mercados. Em desenvolvimento ativo. [Site](https://felipejm.github.io/compra-esperta-site/)
 
-</div>
-
-App 100% focado no mercado brasileiro que transforma a nota fiscal (NFC-e) em histórico de preço, evolução ao longo do tempo e comparação entre mercados. Em desenvolvimento ativo.
+<br clear="left"/>
 
 Kotlin Multiplatform, Compose Multiplatform, Supabase (Postgres, Auth, Storage, Edge Functions), Gemini para normalização de nota fiscal, Resend.
 
