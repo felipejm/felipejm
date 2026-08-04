@@ -32,20 +32,6 @@ KMP monorepo - Compose Multiplatform (mobile + web/Wasm), Ktor, SQLDelight, Supa
 <br clear="left"/>
 
 Kotlin Multiplatform, Compose Multiplatform, Supabase (Postgres, Auth, Storage, Edge Functions), Gemini para normalização de nota fiscal, Resend.
-
-### Stack
-
-<div align="center">
-
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-1a1a2e?style=for-the-badge)](https://kotlinlang.org/docs/multiplatform.html)
-[![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://www.jetbrains.com/lp/compose-multiplatform/)
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
-[![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)](https://ktor.io)
-[![SQLDelight](https://img.shields.io/badge/SQLDelight-1a1a2e?style=for-the-badge)](https://cashapp.github.io/sqldelight/)
-<br/>
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com)
 <br/>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
