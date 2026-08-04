@@ -4,6 +4,12 @@
 
 Mobile Engineer &middot; Kotlin Multiplatform &middot; Building TopShape & Compra Esperta solo
 
+<p align="center">
+  <a href="https://github.com/felipejm/topshape-public"><img src="assets/topshape-icon.svg" width="64" height="64" alt="TopShape"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/felipejm/compra-esperta-public"><img src="assets/compra-esperta-icon.svg" width="64" height="64" alt="Compra Esperta"></a>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-joffer-martins)
 [![Email](https://img.shields.io/badge/Email-C11726?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipejmartins@gmail.com)
 [![topshapeapp.com](https://img.shields.io/badge/topshapeapp.com-000000?style=for-the-badge)](https://topshapeapp.com)

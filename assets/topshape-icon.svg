@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="appbg" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#20242B"/>
+      <stop offset="1" stop-color="#0E1013"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="url(#appbg)"/>
+  <g transform="translate(6.4,7.2) scale(0.8)">
+    <path d="M26 20 L16 15 L8 21 L7 32 L13 39 L20 39 L20 33 L14 32 L13 25 L18 21 L25 25 Z" fill="#C11726"/>
+    <path d="M38 20 L48 15 L56 21 L57 32 L51 39 L44 39 L44 33 L50 32 L51 25 L46 21 L39 25 Z" fill="#C11726"/>
+    <path d="M26 20 L16 15 L8 21 L11 22 L18 19 L25 23 Z" fill="#F0455A"/>
+    <path d="M38 20 L48 15 L56 21 L53 22 L46 19 L39 23 Z" fill="#F0455A"/>
+    <path d="M26 20 L38 20 L32 25 Z" fill="#FF7E88"/>
+    <path d="M32 25 L26 20 L23 31 L28 41 L32 47 Z" fill="#F0455A"/>
+    <path d="M32 25 L38 20 L41 31 L36 41 L32 47 Z" fill="#C11726"/>
+    <path d="M28 41 L36 41 L32 47 Z" fill="#A01523"/>
+    <path d="M27 30 L30.5 31.5 L27.5 34 Z" fill="#160203"/>
+    <path d="M37 30 L33.5 31.5 L36.5 34 Z" fill="#160203"/>
+  </g>
+</svg>
